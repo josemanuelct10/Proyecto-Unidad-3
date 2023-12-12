@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trabajadores>
+  <Trabajador>
+    <codigo>1</codigo>
+    <nombre>Jose Angel Cañete Trujillo</nombre>
+    <dni>34002476N</dni>
+    <telefono>606551161</telefono>
+    <cargo>Jefe</cargo>
+    <semanasTrabajadas>4</semanasTrabajadas>
+  </Trabajador>
+  <Trabajador>
+    <codigo>2</codigo>
+    <nombre>Maria de la Paz Trillo Serrano</nombre>
+    <dni>34002476N</dni>
+    <telefono>606551162</telefono>
+    <cargo>Jefa</cargo>
+    <semanasTrabajadas>4</semanasTrabajadas>
+  </Trabajador>
+  <Trabajador>
+    <codigo>3</codigo>
+    <nombre>Sara Albendin</nombre>
+    <dni>26829094P</dni>
+    <telefono>606551162</telefono>
+    <cargo>Empleada</cargo>
+    <semanasTrabajadas>4</semanasTrabajadas>
+  </Trabajador>
+</Trabajadores>
